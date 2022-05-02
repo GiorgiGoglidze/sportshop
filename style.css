@@ -1,0 +1,46 @@
+body { 
+    background-color: rgb(35, 93, 124);
+}
+header{
+    display: flex;
+    justify-content: center;
+    
+}
+nav{
+    height: 200px;
+    width: 30
+    ;
+   
+}
+ul{
+    display: flex;
+    list-style: none;
+    font-size: large;
+  }
+  li { margin-left: 20px;
+}
+div { display: flex;}
+
+.right {
+    float: right; width: 300px; margin: left 200px;
+}
+.left {
+    float: left; width: 
+    300px; 
+}
+
+footer { margin-bottom: 0px ;}
+
+.video {display: flex;
+margin-top: 180px;}
+
+.left1 {margin-right: 200px;}
+.right1 {margin-left: 200px;}
+    
+
+     
+        
+        
+
+    
+
